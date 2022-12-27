@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Login App</string>
+
+    <string name="sign_up">Sign-Up</string>
+    <string name="login_name_hint">Name</string>
+    <string name="login_id_hint">Id</string>
+    <string name="remember_me_checkbox">Remember Me</string>
+    <string name="btn_name">Login</string>
+    <string name="shared_pref_name">com.example.android.login</string>
+    <string name="user_name">user_name</string>
+    <string name="user_id">user_id</string>
+    <string name="welcome_text">Welcome!!!</string>
+    <string name="logout_btn">Log Out</string>
+    <string name="name">Name</string>
+    <string name="id">Id</string>
+</resources>
